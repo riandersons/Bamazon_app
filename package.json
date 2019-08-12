@@ -1,0 +1,24 @@
+{
+  "name": "bamazon_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riandersons/Bamazon_app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riandersons/Bamazon_app/issues"
+  },
+  "homepage": "https://github.com/riandersons/Bamazon_app#readme",
+  "dependencies": {
+    "easy-table": "^1.1.1",
+    "inquirer": "^6.5.1",
+    "mysql": "^2.17.1"
+  }
+}
